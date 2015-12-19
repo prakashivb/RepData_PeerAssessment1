@@ -1,0 +1,4 @@
+setwd("/Users/pinugant/Personal/Tutorials/Coursera/ReproducibleResearch/RepData_PeerAssessment1")
+knit2html()
+knit2html()
+install.packages(knitr)
